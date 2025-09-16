@@ -37,5 +37,7 @@ int main(void) {
         if(i>x)k++;
         cout<<endl;
      }
+    //
 }
+
 
